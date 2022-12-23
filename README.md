@@ -1,6 +1,6 @@
 # Calculadora Simples Com Operações Basicas
 
-**Desenvolvido por** *Arthur Felipe MS*
+![sirene](https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-sirene-12.gif)**Desenvolvido por** *Arthur Felipe MS*
 
 ## Linguagem Utilizada
 * *java*
