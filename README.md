@@ -8,6 +8,6 @@
 ### API utilizada
 * *SWING*
 
-### Projeto desenvolvido
+### IDE Utilizada
 
-* *IDE NetBeans*
+* *NetBeans*
