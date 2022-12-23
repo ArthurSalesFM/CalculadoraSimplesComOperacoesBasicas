@@ -1,7 +1,13 @@
 # Calculadora Simples Com Operações Basicas
 
-Desenvolvido por Arthur Felipe MS
+**Desenvolvido por** *Arthur Felipe MS*
 
-## Projeto criado em java com a API SWING
+## Linguagem Utilizada
+* *java*
 
-### Projeto desenvolvido na IDE NetBeans.
+### API utilizada
+* *SWING*
+
+### Projeto desenvolvido
+
+* *IDE NetBeans*
